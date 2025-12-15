@@ -4,6 +4,12 @@
 *.tfstate.backup
 *.log
 
+# Security (ADD THESE)
+*.pem
+terraform.tfvars
+
 # Optional: Mac / Linux temp files
 *.swp
 .DS_Store
+~
+
