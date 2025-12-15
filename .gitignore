@@ -1,0 +1,9 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.log
+
+# Optional: Mac / Linux temp files
+*.swp
+.DS_Store
